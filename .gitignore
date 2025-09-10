@@ -1,0 +1,9 @@
+# Ignore class files
+*.class
+
+# Ignore the output file (output.txt)
+output.txt
+
+# Ignore IDE files (e.g., for IntelliJ or VSCode)
+.idea/
+.vscode/
