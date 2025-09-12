@@ -1,4 +1,4 @@
-package DSA;
+
 
 class Solution {
     public int reverse(int x) {

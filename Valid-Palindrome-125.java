@@ -1,4 +1,4 @@
-package DSA;
+
 
 class Solution {
     public boolean isPalindrome(String s) {
